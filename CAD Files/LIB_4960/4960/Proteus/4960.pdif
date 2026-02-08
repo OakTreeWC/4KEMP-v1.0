@@ -1,0 +1,120 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "4960"
+   (description "Adafruit Accessories NeoPixel Reverse Mount RGB LEDs - 10 Pack of SK6812-E")
+   (family "ANA")
+   (package "4960")
+   (attribute "Datasheet Link" "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+   (attribute "Geometry.Height" "1.88mm")
+   (attribute "Mouser Part Number" "485-4960")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Adafruit/4960?qs=pBJMDPsKWf1Q%252BqeEoLnQjA%3D%3D")
+   (attribute "Manufacturer_Name" "Adafruit")
+   (attribute "Manufacturer_Part_Number" "4960")
+   (gate
+    (symbol "4960")
+    (pin "VDD" 1 PS)
+    (pin "DOUT" 2 PS)
+    (pin "GND" 3 PS)
+    (pin "DIN" 4 PS)
+   )
+  )
+  (symbol "4960"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "4960"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.6 1.4)
+      (pt 1.6 1.4)
+      (pt 1.6 -1.4)
+      (pt -1.6 -1.4)
+      (pt -1.6 1.4))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.4 2.4)
+      (pt 4.4 2.4)
+      (pt 4.4 -2.4)
+      (pt -4.4 -2.4)
+      (pt -4.4 2.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.2 1.4)
+      (pt 1.2 1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.2 -1.4)
+      (pt 1.2 -1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.8 0.75)
+      (arc (pt -3.800 0.750) (pt -3.900 0.700) (pt -3.800 0.800) (start 180.0) (sweep .0))
+      (pt -3.9 0.75)
+      (arc (pt -3.900 0.750) (pt -3.900 0.700) (pt -3.800 0.800) (start 180.0) (sweep 180.0))
+      (pt -3.8 0.75))))
+   (leg 1 (pt -2.500 0.750) (padstack 0))
+   (leg 2 (pt -2.500 -0.750) (padstack 0))
+   (leg 3 (pt 2.500 -0.750) (padstack 0))
+   (leg 4 (pt 2.500 0.750) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.820 1.800 0 0 0.000))
+   )
+   (model "4960.stp"
+    (euler 0 0 0)
+    (offset 0 0 0.33000001311302185)
+   )
+  )
+ )
+)

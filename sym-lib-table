@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "4960 reverse neopixel")(type "KiCad")(uri "${KIPRJMOD}/CAD Files/4960/KiCADv6/2026-02-07_03-50-20.kicad_sym")(options "")(descr ""))
+  (lib (name "KalihChocV1")(type "KiCad")(uri "${KIPRJMOD}/CAD Files/keyswitches.pretty-2.1/keyswitches.pretty-2.1")(options "")(descr ""))
+)

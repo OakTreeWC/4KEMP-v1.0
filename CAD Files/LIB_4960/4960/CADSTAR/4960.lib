@@ -1,0 +1,16 @@
+.4960 :1 ;Adafruit Accessories NeoPixel Reverse Mount RGB LEDs - 10 Pack of SK6812-E
+"4960"
+*STM IC
+*NGS
+*PLB 1="VDD" 2="DOUT" 3="GND" 4="DIN"
+*MXP 4
+*DFN 4960
+~!Mouser Part Number (485-4960)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Adafruit/4960?qs=pBJMDPsKWf1Q%252BqeEoLnQjA%3D%3D)
+~!Manufacturer_Name (Adafruit)
+~!Manufacturer_Part_Number (4960)
+~!Link Datasheet (https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf)
+~!Height (1.88mm)
+~!3D_Model (4960)
+"4960"
+1.1!U 2.1!U 3.1!U 4.1!U 

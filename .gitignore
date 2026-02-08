@@ -1,0 +1,4 @@
+*.lck
+*.kicad_prl
+#auto_saved_files#
+/4kemp-backups
