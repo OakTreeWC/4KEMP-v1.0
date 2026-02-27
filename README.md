@@ -7,7 +7,7 @@
 ### P | pad
 
 4KEMP really just a mini macro pad. Nothing special about it. Can be used to play music games and stuff.
-This project was made to help my friend learn how to use KiCad and Fusion360, but then became a [hackclub blueprint](https://blueprint.hackclub.com) project for me as well.
+This project was made to help my friend learn how to use KiCad and Fusion360, ~~but then became a [hackclub blueprint](https://blueprint.hackclub.com) project for me as well.~~
 To use my project, one can use [vial](https://get.vial.today) to change what each key does, and then use it to run functions on their computer.
 
 
