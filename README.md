@@ -17,6 +17,65 @@ To use my project, one can use [vial](https://get.vial.today) to change what eac
 <img width="2329" height="1378" alt="Screenshot 2026-02-07 201758" src="https://github.com/user-attachments/assets/b207dfce-97b1-4b2e-a93b-1fbe85ebda34" />
 <img width="2397" height="1064" alt="Screenshot 2026-02-07 200537" src="https://github.com/user-attachments/assets/a16d5cbe-ebab-4532-87b2-42a9aa284d60" />
 
+## Components
+![IMG_2629](https://stasis.hackclub-assets.com/images/1777872872270-271x9b.jpeg)
+
+## PCB
+pcbs are pretty kewl.
+also you just lost the game lol.
+### Top
+![IMG_2636](https://stasis.hackclub-assets.com/images/1777873154416-5weskb.jpeg)
+
+### Bottom
+![IMG_2637](https://stasis.hackclub-assets.com/images/1777873162147-mckge3.jpeg)
+
+
+## Soldering
+I don't have any documentation from when I was actually doing it, but I do have pics of the final product.
+### Top
+![IMG_2629cropped](https://stasis.hackclub-assets.com/images/1777872823409-xcettn.jpeg)
+
+### Bottom
+![IMG_2630](https://stasis.hackclub-assets.com/images/1777872834490-g8n89s.jpeg)
+
+A lot of my solder joints could be better, it is very inconsistent, and it doesn't look great, but I'm still happy with it.
+
+## Case
+I made a few mistakes, and since I neglected to even try to print it at home first, I let them slip, but whatever.
+
+The upper case was 3d printed by JLC 3DP at my own expense in gray resin, which I honestly love the look and feel of. 
+
+However, the lower case is where all the mistakes arose. Stupidity on my part caused these mistakes, but oh well. Because I added neopixels on the bottom and wanted to actually use them, I ordered my lower case in translucent resin. Unfortunately though, I didn't realize that this resin was super vulnerable to warping and had horrible dimensional accuracy. 
+
+When I received the part, I quickly realized how bad it was. Therefore, I attempted to undo the warping with heat and pressure. I ended up pushing it too far though, resulting in a large crack in the base.
+
+Additionally, the poor accuracy caused the top left corner of my macropad to be misaligned. It isn't too bad, but its definitely there.
+
+### Issues
+
+Thin case causing MASSIVE warping.
+
+![IMG_2635](https://stasis.hackclub-assets.com/images/1777873286048-ionl8i.jpeg)
+
+Attempt to fix warping causing large crack.
+
+![IMG_2628](https://stasis.hackclub-assets.com/images/1777873359366-dlk4wx.jpeg)
+
+Excessive clearance around USB port.
+
+![IMG_2632](https://stasis.hackclub-assets.com/images/1777873383548-yovitt.jpeg)
+
+Poor dimensional accuracy of lower case causing horrific misalignment.
+
+![IMG_2633](https://stasis.hackclub-assets.com/images/1777873445251-b5e772.jpeg)
+
+## Assembly
+
+Assembly was very straightforward. I first added threaded inserts into my lower case, then put my pcb into the upper case and installed all the switches. After that, I just put the entire upper case/pcb assembly into the lower case, tightened the three M3 bolts, and I was done.
+
+![IMG_2626](https://stasis.hackclub-assets.com/images/1777874003449-2ry8r5.jpeg)
+
+![IMG_2627](https://stasis.hackclub-assets.com/images/1777874003378-rasncw.jpeg)
 
 ## Bill of Materials
 |Item                  |Description                                                                                  |Qty.|Unit Price (USD)|Total Price  (USD)|URL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |Running Total (USD + Tax)|
