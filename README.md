@@ -1,3 +1,5 @@
+<img width="3211" height="2408" alt="image" src="https://github.com/user-attachments/assets/b0ad0024-4b8c-4e43-8275-0964c34fed88" />
+
 # 4KEMP v1.0
 
 ### 4 | the number four
